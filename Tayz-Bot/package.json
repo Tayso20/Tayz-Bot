@@ -1,0 +1,33 @@
+{
+  "name": "tayz",
+  "version": "1.0.0",
+  "description": "my bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tayso20",
+  "license": "ISC",
+  "dependencies": {
+    "common-tags": "^1.8.0",
+    "dateformat": "^3.0.3",
+    "discord.js": "github:discordjs/discord.js",
+    "discord.js-minesweeper": "^1.0.5",
+    "download": "^7.1.0",
+    "ffmpeg": "0.0.4",
+    "figlet": "^1.2.4",
+    "mathjs": "^6.0.3",
+    "moment": "^2.24.0",
+    "ms": "^2.1.2",
+    "node-fetch": "^2.6.0",
+    "opusscript": "0.0.7",
+    "relevant-urban": "^2.0.0",
+    "simple-fortnite-api": "^0.1.9",
+    "simple-youtube-api": "^5.2.1",
+    "urban": "^0.3.2",
+    "weather-js": "^2.0.0",
+    "weather.js": "^0.1.0",
+    "ytdl-core": "^1.0.0",
+    "ytdl-core-discord": "^1.0.3"
+  }
+}
